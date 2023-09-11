@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CENTRO_EDUCATIVO.Clases.Administrativo">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\Administrativo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CENTRO_EDUCATIVO.Clases.Autoridad">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Clases\Autoridad.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CENTRO_EDUCATIVO.Clases.Docente">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\Docente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CENTRO_EDUCATIVO.Clases.Empleado" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAQAAAAAAAACAAAAAEIIAAA=</HashCode>
+      <FileName>Clases\Empleado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CENTRO_EDUCATIVO.Conexion.Acceso">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EABAAAAAAAAAAAAAAAAAAAAAAACAAABAIAAAAIAAAAA=</HashCode>
+      <FileName>Conexion\Acceso.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CENTRO_EDUCATIVO.Conexion.Gestor">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Conexion\Gestor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="CENTRO_EDUCATIVO.Clases.CategoriaDocente">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAA=</HashCode>
+      <FileName>Clases\Docente.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
